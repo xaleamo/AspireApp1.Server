@@ -273,6 +273,7 @@ string[] devOrigins =
     "https://localhost:5173",
     "http://127.0.0.1:5173",
     "https://127.0.0.1:5173",
+    "https://la-razlog-desserts-44g94rbgu-xaleamos-projects.vercel.app"
 };
 
 builder.Services.AddCors(options =>
