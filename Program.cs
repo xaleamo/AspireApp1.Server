@@ -273,13 +273,18 @@ string[] devOrigins =
     "https://localhost:5173",
     "http://127.0.0.1:5173",
     "https://127.0.0.1:5173",
-    "https://la-razlog-desserts-44g94rbgu-xaleamos-projects.vercel.app"
 };
 
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReact", policy =>
-        policy.WithOrigins(devOrigins)
+        policy.SetIsOriginAllowed(origin =>
+              {
+                  if (devOrigins.Contains(origin)) return true;
+                  if (!Uri.TryCreate(origin, UriKind.Absolute, out var uri)) return false;
+                  return uri.Scheme == "https" &&
+                         uri.Host.EndsWith("-xaleamos-projects.vercel.app", StringComparison.OrdinalIgnoreCase);
+              })
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials());
