@@ -282,8 +282,9 @@ builder.Services.AddCors(options =>
               {
                   if (devOrigins.Contains(origin)) return true;
                   if (!Uri.TryCreate(origin, UriKind.Absolute, out var uri)) return false;
-                  return uri.Scheme == "https" &&
-                         uri.Host.EndsWith("-xaleamos-projects.vercel.app", StringComparison.OrdinalIgnoreCase);
+                  if (uri.Scheme != "https") return false;
+                  return uri.Host.EndsWith("-xaleamos-projects.vercel.app", StringComparison.OrdinalIgnoreCase)
+                      || uri.Host.Equals("la-razlog-desserts.vercel.app", StringComparison.OrdinalIgnoreCase);
               })
               .AllowAnyHeader()
               .AllowAnyMethod()
