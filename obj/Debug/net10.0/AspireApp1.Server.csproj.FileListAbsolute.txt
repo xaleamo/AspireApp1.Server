@@ -1,0 +1,511 @@
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/appsettings.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.staticwebassets.runtime.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.staticwebassets.endpoints.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.exe
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.deps.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.runtimeconfig.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.pdb
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.AmbientMetadata.Application.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Compliance.Abstractions.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Http.Diagnostics.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Http.Resilience.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Resilience.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.ServiceDiscovery.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Telemetry.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Telemetry.Abstractions.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Microsoft.OpenApi.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Api.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Extensions.Hosting.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.Http.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.Runtime.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Polly.Core.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Polly.Extensions.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/bin/Debug/net10.0/Polly.RateLimiting.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.csproj.AssemblyReference.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.AssemblyInfoInputs.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.AssemblyInfo.cs
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.csproj.CoreCompileInputs.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.sourcelink.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/scopedcss/bundle/AspireApp1.Server.styles.css
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireAp.F81077B7.Up2Date
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/refint/AspireApp1.Server.dll
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.pdb
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.genruntimeconfig.cache
+C:/Users/xalea/OneDrive - UBB Informatica/MPP/A11/AspireApp1.Server/obj/Debug/net10.0/ref/AspireApp1.Server.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/appsettings.Development.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/appsettings.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.staticwebassets.runtime.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.staticwebassets.endpoints.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.exe
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.deps.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.runtimeconfig.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.pdb
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.AmbientMetadata.Application.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Compliance.Abstractions.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Http.Diagnostics.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Http.Resilience.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Resilience.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.ServiceDiscovery.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Telemetry.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Telemetry.Abstractions.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Microsoft.OpenApi.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Api.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Extensions.Hosting.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.Http.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.Runtime.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Polly.Core.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Polly.Extensions.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/bin/Debug/net10.0/Polly.RateLimiting.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.csproj.AssemblyReference.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/rpswa.dswa.cache.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.AssemblyInfoInputs.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.AssemblyInfo.cs
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.csproj.CoreCompileInputs.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.sourcelink.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/rjimswa.dswa.cache.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/scopedcss/bundle/AspireApp1.Server.styles.css
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.json.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.development.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/swae.build.ex.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireAp.F81077B7.Up2Date
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/refint/AspireApp1.Server.dll
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.pdb
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.genruntimeconfig.cache
+Z:/PROGRAMARE/C/LaRazlogDeserts/AspireApp1.Server/obj/Debug/net10.0/ref/AspireApp1.Server.dll
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.csproj.AssemblyReference.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/rpswa.dswa.cache.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.AssemblyInfoInputs.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.AssemblyInfo.cs
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.csproj.CoreCompileInputs.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.dll
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/refint/AspireApp1.Server.dll
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.pdb
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/appsettings.Development.json
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/appsettings.json
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.staticwebassets.endpoints.json
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.staticwebassets.runtime.json
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.deps.json
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.runtimeconfig.json
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/AspireApp1.Server.pdb
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Bogus.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ChilliCream.Nitro.App.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/GreenDonut.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/GreenDonut.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/GreenDonut.Data.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/GreenDonut.Data.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/GreenDonut.Data.Primitives.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.AspNetCore.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Authorization.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.CostAnalysis.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Execution.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Execution.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Execution.Projections.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Features.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Fetching.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Language.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Language.SyntaxTree.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Language.Utf8.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Language.Visitors.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Language.Web.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Primitives.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Subscriptions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Subscriptions.InMemory.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Transport.Sockets.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.CursorPagination.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.CursorPagination.Extensions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.Errors.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.Mutations.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.Queries.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.Scalars.Upload.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Types.Shared.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Utilities.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Utilities.DependencyInjection.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/HotChocolate.Validation.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Humanizer.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.AmbientMetadata.Application.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Compliance.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Http.Diagnostics.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Http.Resilience.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Resilience.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.ServiceDiscovery.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Telemetry.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.Extensions.Telemetry.Abstractions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Mono.TextTemplating.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Newtonsoft.Json.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Npgsql.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Api.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Extensions.Hosting.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.AspNetCore.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.Http.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/OpenTelemetry.Instrumentation.Runtime.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Polly.Core.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Polly.Extensions.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Polly.RateLimiting.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.CodeDom.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.Composition.Convention.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.Composition.Hosting.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.Composition.Runtime.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/System.IO.Hashing.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Yarp.ReverseProxy.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/scopedcss/bundle/AspireApp1.Server.styles.css
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.json.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/staticwebassets.development.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/swae.build.ex.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireAp.F81077B7.Up2Date
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/AspireApp1.Server.genruntimeconfig.cache
+/media/sf_AspireApp1.Server/obj/Debug/net10.0/ref/AspireApp1.Server.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/DnsClient.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/MongoDB.Bson.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/MongoDB.Driver.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/SharpCompress.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/Snappier.dll
+/media/sf_AspireApp1.Server/bin/Debug/net10.0/ZstdSharp.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\appsettings.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.staticwebassets.runtime.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.staticwebassets.endpoints.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.exe
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.deps.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.runtimeconfig.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\AspireApp1.Server.pdb
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Bogus.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ChilliCream.Nitro.App.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\DnsClient.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\GreenDonut.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\GreenDonut.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\GreenDonut.Data.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\GreenDonut.Data.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\GreenDonut.Data.Primitives.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.AspNetCore.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.AspNetCore.Authorization.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Authorization.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.CostAnalysis.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Execution.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Execution.Projections.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Features.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Fetching.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Language.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Language.Utf8.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Language.Visitors.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Language.Web.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Primitives.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Subscriptions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Transport.Sockets.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.CursorPagination.Extensions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.Errors.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.Mutations.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.Queries.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Types.Shared.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Utilities.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Utilities.DependencyInjection.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\HotChocolate.Validation.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Humanizer.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Resilience.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Npgsql.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Api.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Polly.Core.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Polly.Extensions.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Polly.RateLimiting.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\SharpCompress.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Snappier.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\System.IO.Hashing.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\Yarp.ReverseProxy.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.csproj.AssemblyReference.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.AssemblyInfoInputs.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.AssemblyInfo.cs
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.csproj.CoreCompileInputs.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.sourcelink.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\scopedcss\bundle\AspireApp1.Server.styles.css
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireAp.F81077B7.Up2Date
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\refint\AspireApp1.Server.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.pdb
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\AspireApp1.Server.genruntimeconfig.cache
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\ref\AspireApp1.Server.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\MailKit.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\bin\Debug\net10.0\MimeKit.dll
+C:\Users\xalea\OneDrive - UBB Informatica\MPP\LaRazlogDeserts\AspireApp1.Server\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -1,0 +1,13 @@
+wwwroot\images\ApricotCheesecake.jpg
+wwwroot\images\BlueberryMuffins.jpg
+wwwroot\images\BlueberryPancakes.jpg
+wwwroot\images\ChocolateAmericanBiscuits.jpg
+wwwroot\images\ChocolateCake.jpg
+wwwroot\images\ChocolateMuffins.jpg
+wwwroot\images\ChocolatePancakes.jpg
+wwwroot\images\CremeBrulee.jpg
+wwwroot\images\Eclair.jpg
+wwwroot\images\LemonPie.jpg
+wwwroot\images\PlainPancakes.jpg
+wwwroot\images\PumpkinPie.jpg
+wwwroot\images\Tiramisu.jpg
